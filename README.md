@@ -19,4 +19,7 @@ Note that we may got import errors as jedi-vim depends on python-version and jed
 Check the error message for the default python that is used. 
 Install packages with default python with python -m pip install jedi. 
 
+6. Problems: 
+NerdCommenter does not work. Clone it manually. 
+
 
